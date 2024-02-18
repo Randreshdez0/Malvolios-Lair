@@ -1,0 +1,111 @@
+- The Ringer -
+
+Credits:
+Game design - Averyy, FindingNim0y, Marioman
+Script - FindingNim0y
+Programming - Marioman
+Music & Sound - Averyy
+Art & Animation - Averyy & FindingNim0y
+
+Scene one:
+Exterior of Malvolio's Mansion - Morning
+Our new intern is seen staring at the intimidating structure that constitutes Mr. Malvolio's Mansion. It's a ring that stands upright on the impractically tall hillside. While the intern is climbing up the steep steps, we witness the mansion's double doored entrance swing open with the might of Malvolio's puny arms. Behind him is a worker who looks overworked and drenched in sweat.
+
+	Malvolio
+Get out I say! How am I supposed to be a succesful billionaire with my support being dregs like you.
+
+The worker comes running down the steps and past our new intern who has a look of fear and confusion. The intern slowly steps towards the buisness man, who's face is red with rage.
+	Malvolio
+What is it? What do you want?
+
+The Intern holds up a large paper reading "Application to server Mr. Malvolio and his grand estate." The man's demeanor changes to that of hope.
+	Malvolio
+Ah I see. That previous worker was another who wanted the position, but he simply didn't have the company's interests at heart. hehehe...
+I'm Malvolio and will be your guide and future boss. We'll divide your day's workload into different rings. To finish a ring, just complete each task and a door will appear. What's behind the door? Who knows, but I bet it will fill you up with excitement. Some of my employees have been so excited that they've gone mad. Completing the day's work in tip-top shape will surely prove to me that you are worthy to work in such a fine establishment like mine. Here, I'll show you the ropes.
+
+-Ring intermissions-
+
+Tutorial Ring:
+[Start]
+Alright!
+Before we begin with the real work, we'll first take a preview of everything we'll do on the first day. While our schedule is quite tight, I've decided to generously give you all the resources needed to figure each task on our first run. The rest of the day won't be so easy as there's much more to do. Remember, just work your hardest and you'll see that shiny new job in no time.
+[Finish]
+That wasn't so bad was it? Yes, this will be all you'll have to do here at my lovely abode. Caring and maintaining and the like. What? A break? Well... The break is all the extra time you've saved up. We work on a very "Worker dedication" system around here... Oh! Looks like our time is up. Let's hurry to our first real task!
+
+Ring #1 - Morning
+[Start]
+Now it's time to prove yourself in the line of duty. Remember that it's hard work that brings people to the top.
+[Finish]
+Seeing you work that hard reminded me of myself when I was your age. It was only yesterday when I had to rely on my own wits and my dad's wealth to truly push me to where I am today. Having half of that equation isn't doing too bad.
+
+Ring #2 - Noon
+[Finish]
+It is clear from the sweat and dirt on your face that you're truly demonstrating the characteristics of a great worker. Good job!
+
+Ring #3 - Afternoon
+[Finish]
+Hmm. Is that sweat that I see on your brow? don't tell me you're getting tired already! We've only gotten started.
+
+Ring #4 - Evening
+[Finish]
+Ah yes. While your shape is quite worrisome, I know that you still have the makeup to be a real go-getter. We only have the end of the day before you've shown you're ready to be here.
+
+Ring #5 - Night
+[Start]
+Ah yes, truly remarkable work. What? When's the shift over? I thought you'd already know from our little contract. You read the whole thing didn't you? When I meant all day, I MEANT ALL DAY. We only have the whole night left before you're done. Come on, chop chop! I know that after this you'll truly be the one I'm looking for.
+[Finish]
+Well... You've definetly showed that you can work. I need to have a word with you in my office won't you please?
+[Dialogue end]
+
+-Tutorial Dialogue-
+
+Game #1 - Bundles of Joy
+[Start]
+Ah, this will be your first task on the intership! See me and my fellow associates need to have our "packages" delivered to us, and the weight is on your shoulders if we don't receive these "packages" on time. Just use the WASD - wasd? Or the arrow keys to move and jump and bring our "packages" from point A to point B here.
+[Finish]
+See? that wasn't so bad. Just remember that time is of the essence. Don't worry, not right now... But soon.
+Also NEVER look inside our packages. That would violate our contract.
+
+Game #2 - ?Folding?
+[Start]
+As a personal assistant, you'll have to fold my clothes after they're done from the wash. To fold, just drag the promt using your mouse.
+[Finish]
+Nicely done. Just remember that you'll be paid more than most others doing the exact same thing.
+
+Game #3 - Slingshot Eatery
+[Start]
+A socialite's burden is that I must be able to satisfy all my guest's needs. Here, you'll have to quickly serve my valued confrères. Our budget's quite low so I've provided you this. Just drag and release the product towards them before they get too hungry. If you do a good enough job, you may even recieve a tip!
+[Finish]
+You made all that look as easy as pie... Or maybe caviar... Or lobster... Anyways, your work was "acceptable."
+
+Game #4 - ?Back Washing?
+[Start]
+As my assistant, it's imperative that I always look my best. See that exfoliator? Just use the mouse to scrub my back to and fro until satisfied.
+[Finish]
+I can already tell you're determined. This is where most people quit.
+
+Game #5 - ?Crossword puzzles?
+[Start]
+Opposed to other humans, my mind is sharp and my language is verbose. You agree, yes? Then why am I unable to solve the most rudimentary of puzzles! Please stave off any embarrassment with my colleagues and help me solve the puzzles from the day's paper. To write words, just jot them down with a keyboard. To write any numbers, the same can be done with those numbered keys or whatnot. We'll start with this.
+[Finish]
+Yeah, whatever...
+
+Game #6 - ?Machine Spinny?
+[Start]
+Here is my abode's greatest contraption. Everyone here does their part operating the machine. As an intern, you'll get the priviledge to turn the machine's crank... thing. Just use your mouse to grab on the crank thing and spin it as fast as possible.
+[Finish]
+Being around so many valued colleagues is like being part of an extended family! Don't talk with them though, we don't want to start a union.
+
+Game #7 - Reckless Rendezvous
+[Start]
+See this is why I need my interns need to have a driver's licence. I'm not a man with weaknesses, but most commercial automobiles ignore the proportions of others such as myself. For your final task, all that's needed is that you assist my driving. The steering wheel is controlled via the mouse. You can also accelerate using either W or the up arrow. Just make sure we don't hit anything, that'll slow us down and I don't want to miss my important meeting.
+[Finish]
+Wow, very fine driving, sport! How old are you again?
+[Dialogue end]
+
+-Ending Scene-
+Malvolio waddles to his expansive office, his chair is twice the size of his whole body. Before lounging, he pats the callous stool across from his desk like one would do to a dog. Before speaking, he takes the time to clear his throat.
+	Malvolio
+^
+|
+The ending is a work in progress.
